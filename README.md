@@ -6,4 +6,5 @@
 
 其他版本：
 
-* https://github.com/abbshr/NextDate.js (Node)
+* https://github.com/abbshr/NextDate.js (Node 命令行)
+* https://github.com/skyline75489/NextDate (Node Express)
